@@ -15,7 +15,7 @@ if (num>0)
 }
 else
 {
-  printf("please enter a natural number");
+  printf("please enter a valid number");
 }
 return 0;
 }
